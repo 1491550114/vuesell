@@ -1,6 +1,6 @@
 # vue-sell
 
-> A Vue.js project
+> vue饿了么webapp页面开发
 
 ## Build Setup
 
